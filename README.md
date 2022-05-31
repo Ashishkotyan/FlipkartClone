@@ -2,7 +2,6 @@
 
 
 
-![FO_UONFaUAQPRTW](https://user-images.githubusercontent.com/72222933/171096579-a6ac1e42-4fcf-4a73-9c1f-a4432ab446b6.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
